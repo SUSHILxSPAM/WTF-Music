@@ -1,4 +1,4 @@
-<h1 align= center><b>💕 WTF Music 💕</b></h1>
+<h1 align= center><b>💕 Neha Music 💕</b></h1>
 </p>
 
 <p align="center"><a href="https://telegram.me/DevilsHeavenMF"><img src="https://telegra.ph/file/053f99956ccee8416b8f7.jpg" height="300" width="310" alt="Music Player"></p>
@@ -64,7 +64,7 @@
 
 ## ✨ <a name="credits"></a>Credits
 
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousBoy1025) for [Everything](https://github.com/AnonymousBoy1025/WTF-Music) 😇
+- [SUSHIL](https://github.com/SUSHILxSPAM) for [Everything](https://github.com/CobraBoy1025/NEHA-Music) 😇
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) 💕
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) 💕
 - And Thanks To All [Contributors](https://github.com/AnonymousBoy1025/WTF-Music/graphs/contributors)! 💕
