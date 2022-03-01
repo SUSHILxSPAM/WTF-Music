@@ -1,8 +1,8 @@
 {
-  "name": "WTF Music",
-  "description": "Bot to play songs in Telegram group voice chats. Powered by PyTgCalls.",
+  "name": "Neha Music",
+  "description": "Bot to play songs in Telegram group voice chats. Powered by Cobra.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/053f99956ccee8416b8f7.jpg",
+  "logo": "https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg",
   "repository": "https://github.com/AnonymousBoy1025/WTF-Music",
   "stack": "container",
   "env": {
