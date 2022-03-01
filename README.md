@@ -1,7 +1,7 @@
 <h1 align= center><b>💕 Neha Music 💕</b></h1>
 </p>
 
-<p align="center"><a href="https://telegram.me/DevilsHeavenMF"><img src="https://telegra.ph/file/053f99956ccee8416b8f7.jpg" height="300" width="310" alt="Music Player"></p>
+<p align="center"><a href="https://telegram.me/clan8xofficial"><img src="https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg" height="300" width="310" alt="Music Player"></p>
 
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls for playing Audios & Videos in Telegram by the help of Telegram Video Chat Feature</h3>
 
