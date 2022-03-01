@@ -39,23 +39,23 @@ OWNER_ID = int(os.environ["OWNER_ID"])
 LIVE_CHATS = []
 
 START_TEXT = """━━━━━━━━━━━━━━━━━━━━━━
-[🖤](https://telegra.ph/file/053f99956ccee8416b8f7.jpg) ʜᴇʏ, <b>{}</b> 
+[🖤](https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg) ʜᴇʏ, <b>{}</b> 
 
 ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs...
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id=1356469075)
+┣★ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [SUSHIL](t.me//sushil8xop)
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](tg://user?id=1356469075) ʙᴀʙʏ...
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me//cobra8xop) ʙᴀʙʏ...
 ━━━━━━━━━━━━━━━━━━━━━━
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("💕 sᴜᴘᴘᴏʀᴛ 💕", url="https://t.me/DevilsHeavenMF"),
+            InlineKeyboardButton("💕 sᴜᴘᴘᴏʀᴛ 💕", url="https://t.me/clan8xofficial"),
             InlineKeyboardButton("🔥 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🔥", url="https://telegra.ph/file/b2a4f66615d038f77bb46.mp4")
         ]
     ]
