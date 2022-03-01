@@ -60,7 +60,7 @@
 
 ## 🖤 Support
 
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
+<a href="https://telegram.me/Clan8xofficial"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
 
 ## ✨ <a name="credits"></a>Credits
 
